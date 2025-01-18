@@ -9,3 +9,4 @@ fn(a, b)
 sub_fn(a, b)
 
 #multiplying two numbers
+mul_fn(a, b)
